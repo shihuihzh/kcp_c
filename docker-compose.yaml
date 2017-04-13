@@ -1,0 +1,6 @@
+kcp_c:
+    image: zhanhao/kcp_c
+    ports:
+         - "8900:8388"
+    restart: always
+    
